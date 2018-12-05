@@ -52,6 +52,6 @@ Flash uses a very different architecture and has different properties than stand
 ### Enhancing Dependablility in Memory Systems
 Dynamic errors can be detected by three approaches:
 - ***parity bits***.
-- ***Error Correcting Codes (ECCs)***.
+- ***Error Correcting Codes*** (ECCs).
 - ***Chipkill*** distributes the data and ECC information, so that the complete failure of a single memory chip can be handled by supporting the reconstruction of the missing data from the remaining memory chips. 
 

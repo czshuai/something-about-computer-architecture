@@ -10,7 +10,7 @@ SRAMs don't need to refresh, so the access time is very close to the cycle time.
 SRAMs typically use six transistors per bit to prevent the information from being disturbed when read.
 
 ### DRAM Technology
-Multiplex the address lines, thereby cutting the number of address pins in half: first ***row access strobe (RAS)***; second ***column access strobe (CAS)***.   
+Multiplex the address lines, thereby cutting the number of address pins in half: first ***row access strobe*** (RAS); second ***column access strobe*** (CAS).   
    
 Reading that bit destorys the information, so it must be restored. (This is why its cycle time larger than access time)
    

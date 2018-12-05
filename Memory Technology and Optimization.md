@@ -18,7 +18,7 @@ To prevent loss of information when a bit is not read or written, the bit must b
    
 Amdahl suggested as a rule of thumb that memory capacity should grow linearly with processor speed to keep a balanced system.
    
-DRAMs are commonly sold on small boards called ***dual inline memory modules (DIMMs)***.
+DRAMs are commonly sold on small boards called ***dual inline memory modules*** (DIMMs).
 
 ### Improving Memory Performance Inside a DRAM Chip
 1. DRAMs added timing signals that allow repeated accesses to the row buffer without another row access time.

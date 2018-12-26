@@ -2,7 +2,7 @@ The key idea behind implementing speculation is to allow instructions to ***exec
    
 We call the additional step in the instruction execution sequence ***instruction commit***.
    
-The hardware buffer, which we call the ***reorder buffer (ROB)***, is also used to pass results among instructions that may be speculated.
+The hardware buffer, which we call the ***reorder buffer*** (ROB), is also used to pass results among instructions that may be speculated.
 
 There are the four steps involved in instruction execution:
  1. Issue.
